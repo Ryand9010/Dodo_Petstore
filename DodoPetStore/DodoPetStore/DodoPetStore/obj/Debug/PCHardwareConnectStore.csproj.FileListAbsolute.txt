@@ -1,0 +1,616 @@
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll.config
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.pdb
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe.config
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.rsp
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe.config
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.rsp
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.AppContext.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Console.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe.config
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.rsp
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\WebGrease.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.pdb
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CopyComplete
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.pdb
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.dll
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.xml
+C:\Users\Eric\Desktop\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll.config
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.pdb
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe.config
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.rsp
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe.config
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.rsp
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Managed.Core.targets
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.AppContext.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Collections.Immutable.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Console.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Compression.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Reflection.Metadata.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.AccessControl.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Claims.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Principal.Windows.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.ValueTuple.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XmlDocument.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe.config
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.rsp
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe.config
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.Web.Infrastructure.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\WebGrease.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.pdb
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csprojAssemblyReference.cache
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CoreCompileInputs.cache
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CopyComplete
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.dll
+I:\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.pdb
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.pdb
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll.config
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.pdb
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe.config
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.rsp
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe.config
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.rsp
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.AppContext.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Console.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe.config
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.rsp
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\WebGrease.dll
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.pdb
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CopyComplete
+C:\Users\Eric\Desktop\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csprojAssemblyReference.cache
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll.config
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.pdb
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe.config
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.rsp
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe.config
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.rsp
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Managed.Core.targets
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.AppContext.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Collections.Immutable.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Console.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Compression.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Reflection.Metadata.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.AccessControl.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Claims.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Principal.Windows.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.ValueTuple.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XmlDocument.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe.config
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.rsp
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe.config
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.Web.Infrastructure.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\WebGrease.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.pdb
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csprojAssemblyReference.cache
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CoreCompileInputs.cache
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CopyComplete
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.dll
+F:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.pdb
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll.config
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.pdb
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe.config
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.rsp
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe.config
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.rsp
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Managed.Core.targets
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.AppContext.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Collections.Immutable.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Console.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Compression.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Reflection.Metadata.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.AccessControl.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Claims.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Principal.Windows.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.ValueTuple.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XmlDocument.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe.config
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.rsp
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe.config
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.Web.Infrastructure.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\WebGrease.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.pdb
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csprojAssemblyReference.cache
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CoreCompileInputs.cache
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CopyComplete
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.dll
+I:\AlmostComplete-PCHardwareConnectStore\AdminComplete-PCHardwareConnectStore\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.pdb
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll.config
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.pdb
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe.config
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.rsp
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe.config
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.rsp
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.AppContext.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Console.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe.config
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.rsp
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\WebGrease.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.pdb
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CopyComplete
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.dll
+C:\Users\Eric\Desktop\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.pdb
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll.config
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PCHardwareConnectStore.pdb
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.exe.config
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csc.rsp
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.exe.config
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\csi.rsp
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.AppContext.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Collections.Immutable.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Console.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Compression.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.IO.Pipes.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.AccessControl.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Claims.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.ValueTuple.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.exe.config
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\vbc.rsp
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\roslyn\VBCSCompiler.exe.config
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.Web.Infrastructure.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\WebGrease.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\EntityFramework.SqlServer.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\PagedList.Mvc.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Helpers.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Mvc.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Optimization.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.Razor.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Deployment.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Web.WebPages.Razor.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Newtonsoft.Json.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Antlr3.Runtime.pdb
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csprojAssemblyReference.cache
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CoreCompileInputs.cache
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.csproj.CopyComplete
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.dll
+D:\School Stuff\Quarters\Spring 19\Rich Web Applications\PCHardwareConnect-Final\PCHardwareConnectStore\PCHardwareConnectStore\obj\Debug\PCHardwareConnectStore.pdb
